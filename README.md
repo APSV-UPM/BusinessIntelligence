@@ -20,6 +20,8 @@ The recommended way to use the notebooks is to use Google Colab platform. To do 
 4. Click on the search icon.
 5. Click on the notebook you want to open.
 
+After that, you will be able to run the code on the notebooks. You can also modify the code and save the changes on your computer or on your Google Drive. If you want to continue working on the notebooks later, you will need to open the saved copy instead of the original one from GitHub.
+
 ## How to use the notebooks (alternative)
 ⚠️ **WARNING**: This alternative will not be supported by the teachers. Use it at your own risk.
 
