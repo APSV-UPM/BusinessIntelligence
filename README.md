@@ -7,7 +7,7 @@ The repository contains the following folders:
 - `notebooks`: contains the Jupyter notebooks that will be used on the labs.
 
 There are 3 notebooks:
-- `1. Introduction to Python.ipynb`: contains the code for the first lab. On it we will learn tha basics of Python language and how to use Pandas and Matplotlib libraries.
+- `1. Introduction to Python.ipynb`: contains the code for the first lab. On it we will learn the basics of Python language and how to use Pandas and Matplotlib libraries.
 - `2. Data exploration and visualization.ipynb`: contains the code for the second lab. On it we will learn how to use the Pandas library to perform data analysis.
 - `3. Introduction to Machine Learning.ipynb`: contains the code for the third lab. On it we will learn the basics of machine learning using the Scikit-learn library.
 
